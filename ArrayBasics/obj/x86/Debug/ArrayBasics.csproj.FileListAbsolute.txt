@@ -1,0 +1,4 @@
+D:\MyLearnings\ArrayBasics\ArrayBasics\bin\Debug\ArrayBasics.exe
+D:\MyLearnings\ArrayBasics\ArrayBasics\bin\Debug\ArrayBasics.pdb
+D:\MyLearnings\ArrayBasics\ArrayBasics\obj\x86\Debug\ArrayBasics.exe
+D:\MyLearnings\ArrayBasics\ArrayBasics\obj\x86\Debug\ArrayBasics.pdb
