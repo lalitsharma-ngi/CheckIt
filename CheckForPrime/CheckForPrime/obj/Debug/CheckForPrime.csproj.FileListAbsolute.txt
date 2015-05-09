@@ -1,0 +1,6 @@
+D:\MyLearnings\CheckForPrime\CheckForPrime\bin\Debug\CheckForPrime.exe.config
+D:\MyLearnings\CheckForPrime\CheckForPrime\bin\Debug\CheckForPrime.exe
+D:\MyLearnings\CheckForPrime\CheckForPrime\bin\Debug\CheckForPrime.pdb
+D:\MyLearnings\CheckForPrime\CheckForPrime\obj\Debug\CheckForPrime.csprojResolveAssemblyReference.cache
+D:\MyLearnings\CheckForPrime\CheckForPrime\obj\Debug\CheckForPrime.exe
+D:\MyLearnings\CheckForPrime\CheckForPrime\obj\Debug\CheckForPrime.pdb
